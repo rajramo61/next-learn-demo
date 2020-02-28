@@ -1,6 +1,8 @@
-.next
-node_modules
-*.log
-yarn.lock
-package-lock.json
-out
+.idea/
+*.iml
+node_modules/
+1-navigate-between-pages/.idea/
+1-navigate-between-pages/node_modules/
+2-using-shared-components/.idea/
+2-using-shared-components/node_modules/
+
