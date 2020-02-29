@@ -11,3 +11,5 @@ node_modules/
 3-create-dynamic-pages/node_modules/
 4-clean-urls/.next/
 4-clean-urls/node_modules/
+6-fetching-data/.next/
+6-fetching-data/node_modules/
